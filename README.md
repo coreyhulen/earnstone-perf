@@ -33,6 +33,9 @@ design.
     counters.  The registry is optional, but will be needed to access features
     like exposing counters through JMX or via the JMX-HTML adapter.
 
+### Download
+[earnstone-perf-0.5-all.zip](https://github.com/coreyhulen/blog/raw/master/earnstone-perf-0.5-all.zip)
+
 ### Building ePerf
 Building ePerf can be a little tricky because of the jmxtools.jar 
 dependency from Sun does not exist in a maven repository because of
