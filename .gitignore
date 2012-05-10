@@ -1,0 +1,10 @@
+.classpath
+.settings
+.project
+.metadata
+.DS_Store
+Servers
+target
+logs
+dist
+xcuserdata
